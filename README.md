@@ -1,2 +1,2 @@
 # hello-world
-store ideas
+Just following the tutorial right now.
